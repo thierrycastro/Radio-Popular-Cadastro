@@ -18,6 +18,7 @@ O objetivo deste teste é verificar se o processo de registro de novos usuários
 
 ### Para a execução do teste:
 Execute o Selenium: clicar no RUN (Para o teste Positivo)
+
 Execute o Selenium: npx mocha --no-timeouts "test/cadastroNegativo.js" (Para o teste Negativo)
 
 ### Notas
